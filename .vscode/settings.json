@@ -1,0 +1,10 @@
+{
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.steps": ["src/test/java/steps/*.java"],
+    "cucumberautocomplete.syncfeatures": "test/features/*.feature",
+    "cucumberautocomplete.strictGherkinValidation": true,
+
+
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
